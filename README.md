@@ -11,10 +11,10 @@
 <img width="720" height="1604" alt="image" src="https://github.com/user-attachments/assets/a9b6db61-51db-49b1-9cef-f14d351e5df3" />
 
 ## 🛡️ Security Logic:
-Validasi Email (RegEx).
-Validasi Phone (Cuma angka & min. 10 digit).
-Match Check: Password & Confirm Password harus sama!
-Handle Keyboard agar tidak nutupin tombol "Submit".
+- Validasi Email (RegEx).
+- Validasi Phone (Cuma angka & min. 10 digit).
+- Match Check: Password & Confirm Password harus sama!
+- Handle Keyboard agar tidak nutupin tombol "Submit".
 
 ## 🔗 Demo
 [Cek di Expo Snack](https://snack.expo.dev/@crisdayanti/praktek-pertemuan-5-mobile?platform=web)
