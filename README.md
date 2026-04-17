@@ -17,4 +17,4 @@ Match Check: Password & Confirm Password harus sama!
 Handle Keyboard agar tidak nutupin tombol "Submit".
 
 🔗 Demo
-[Cek di Expo Snack] (https://snack.expo.dev/@crisdayanti/praktek-pertemuan-5-mobile?platform=web)
+[Cek di Expo Snack](https://snack.expo.dev/@crisdayanti/praktek-pertemuan-5-mobile?platform=web)
